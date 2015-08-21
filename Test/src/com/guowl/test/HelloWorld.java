@@ -15,6 +15,8 @@ public class HelloWorld {
 		int i = Calendar.getInstance().get(Calendar.DAY_OF_WEEK);
 		System.out.println(i);
 		// testRandom(1);
+		// testRandom(1);
+		// testRandom(1);
 
 		SimpleDateFormat df = new SimpleDateFormat("HH:mm");
 
